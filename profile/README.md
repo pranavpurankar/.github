@@ -23,6 +23,7 @@ GC.OS supports the following open source AI projects:
 11. **[skforecast](https://github.com/skforecast/skforecast)** - Time series forecasting using machine learning models
 12. **[skpro](https://github.com/sktime/skpro)** - Supervised probabilistic prediction in Python
 13. **[sktime](https://github.com/sktime/sktime)** - The unified framework for AI with time series
+14. **[rattler](https://github.com/conda/rattler)** - Rust crates for fast handling of conda packages
 
 ---
 
